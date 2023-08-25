@@ -1,0 +1,15 @@
+#
+# Source this file
+#
+
+function reload-nanoc-functions {
+    . ./.shell-functions
+    echo "Reloaded nanoc shell functions."
+}
+
+function nanoc {
+    bundle exec nanoc $*
+}
+
+
+# vim: set ft=zsh:

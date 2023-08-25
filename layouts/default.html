@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>araxia.net - <%= @item[:title] %></title>
+    <link rel="stylesheet" href="/keyboards/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
+  </head>
+  <body>
+    <div id="main">
+      <%= yield %>
+    </div>
+
+    <div id="sidebar">
+      <h2>About</h2>
+      <ul>
+        <li>Araxia on Discord</li>
+        <li><a href="https://github.com/SethMilliken/">GitHub</a></li>
+        <li><a href="https://araxia.net/keyboards/">Keyboards</a></li>
+        <li><a href="https://nanoc.app/">Built with nanoc</a></li>
+      </ul>
+    </div>
+
+  </body>
+</html>
