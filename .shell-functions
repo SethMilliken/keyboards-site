@@ -11,5 +11,8 @@ function nanoc {
     bundle exec nanoc $*
 }
 
+function preview {
+    bundle exec nanoc view --color --verbose --port=3333
+}
 
 # vim: set ft=zsh:
