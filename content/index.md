@@ -2,6 +2,11 @@
 title: Keyboards
 ---
 
+### Articles
+
+- [Soldering](./soldering/): resources for soldering
+- [Bespoke Solder Feeder](./solder-feeder/): a tool for feeding solder smoothly and evenly when soldering electronics
+
 ### Resources
 
 - [Keyboard Links](https://at.araxia.net/ff/personal/keyboards/)
@@ -23,4 +28,5 @@ Seth Milliken
 - Bad Wings
 
 ### Current Keymap
+
 ![Split Keyboard Keymap](https://raw.githubusercontent.com/SethMilliken/swept-corne-zmk/seth/svg/corne.svg)
