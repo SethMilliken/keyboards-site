@@ -125,7 +125,7 @@ Curl your index finger and pinch the protruding solder wire with your thumb. Pul
 - You may want to use different colored bobbins for different types of solder. I use black for unleaded, plain for leaded.
 - You may need to adjust the placement and angle of the arm and ring assemblies depending on the size and proportions of your hands.
 - The tool feeds at a rate of about 1" of wire per pull (may vary with the dimensions of your hands).
-- Weighs ~65g (with full bobbin of solder)
+- Weighs ~65g (with full spool of solder)
 
 ### Budget Options
 
@@ -135,3 +135,7 @@ I already happened to have a lot of these parts already on hand from other proje
 - You don't necessarily need washers, a knurled thumb nut, or rubber feet at all. These just keep the assembly securely fastened and more comfortable to hold and use. Loctite and electrical tape could serve similar functions.
 - Instead of metal mending plates, you could use strips of stiff plastic cut to size with holes drilled in appropriate places.
 - You may know someone who sews; they will likely have spare bobbins and might be happy to give you one if you ask.
+
+### Feedback
+
+For feedback and suggested changes, please use the [GitHub repository](https://github.com/SethMilliken/keyboards-site/blob/main/content/solder-feeder/index.md).
