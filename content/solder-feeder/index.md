@@ -125,7 +125,7 @@ Curl your index finger and pinch the protruding solder wire with your thumb. Pul
 - You may want to use different colored bobbins for different types of solder. I use black for unleaded, plain for leaded.
 - You may need to adjust the placement and angle of the arm and ring assemblies depending on the size and proportions of your hands.
 - The tool feeds at a rate of about 1" of wire per pull (may vary with the dimensions of your hands).
-- Weighs ~65g (with full spool of solder)
+- Weighs ~65g (with full bobbin of solder)
 
 ### Budget Options
 
