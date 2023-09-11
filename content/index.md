@@ -84,4 +84,11 @@ Seth Milliken
 
 ### Current Keymap
 
+Currently in the midst of exploring a transition from a 3x6+3 Corne layout to a 3x5+2. May wind up sticking with +3. Contemplating alternative uses for the now unused outer pinky columns on my current Corne boards.
+
+I generally test new changes in ZMK and later port them to QMK if I like them enough.
+
+- [ZMK Config](https://github.com/SethMilliken/swept-corne-zmk/tree/seth)
+- [QMK Config](https://github.com/SethMilliken/qmk_firmware/commits/seth)
+
 ![Split Keyboard Keymap](https://raw.githubusercontent.com/SethMilliken/swept-corne-zmk/seth/svg/corne.svg)
