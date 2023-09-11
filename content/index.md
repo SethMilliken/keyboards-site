@@ -6,6 +6,7 @@ title: Keyboards
 
 - [Soldering](./soldering/): resources for soldering
 - [Bespoke Solder Feeder](./solder-feeder/): a tool for feeding solder smoothly and evenly when soldering electronics
+- [Magnetic Mounting Guide](./magnetic-mount/): guide for magnetic keyboard mounting/tenting
 
 ### Resources
 
